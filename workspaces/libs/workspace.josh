@@ -1,0 +1,7 @@
+:[
+  ::libbacktrace/
+  ::libctf/
+  ::libdecnumber/
+  ::libiberty/
+  ::libsframe/
+]
