@@ -1,7 +1,5 @@
-:[
-  ::libbacktrace/
-  ::libctf/
-  ::libdecnumber/
-  ::libiberty/
-  ::libsframe/
-]
+::libbacktrace/
+::libctf/
+::libdecnumber/
+::libiberty/
+::libsframe/
